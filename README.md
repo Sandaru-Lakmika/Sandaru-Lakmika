@@ -8,6 +8,11 @@ I love working on both **creative design projects** and **technical development 
 🎨 Over 100+ Fiverr projects completed with a 4.8★ rating, serving global clients.  
 💻 Interested in combining **engineering, design, and marketing** into innovative solutions.  
 
+## 🚀 Skills & Interests
+- Web Development: React, Node.js, MySQL, Spring Boot  
+- Programming: C, C++, Java, C#  
+- Design: Photoshop, Figma, Canva, UI/UX  
+
 
 <!--
 **Sandaru-Lakmika/Sandaru-Lakmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
