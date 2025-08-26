@@ -4,9 +4,10 @@ I’m a Computer Engineering undergraduate and a passionate Graphic Designer on 
 I love working on both **creative design projects** and **technical development projects**.  
 
 🌱 Currently learning Web Development, C++, Java, and Machine Learning.  
-⚡ Currently, I'm working on a bunch of exciting projects! 
+⚡ Actively working on on a bunch of exciting projects!  
 🎨 Over 100+ Fiverr projects completed with a 4.8★ rating, serving global clients.  
 💻 Interested in combining **engineering, design, and marketing** into innovative solutions.  
+
 
 <!--
 **Sandaru-Lakmika/Sandaru-Lakmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
