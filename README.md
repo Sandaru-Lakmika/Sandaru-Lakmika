@@ -1,4 +1,4 @@
-## Hi! I'm Sandaru Gamage👋
+## Hi!👋 I'm Sandaru Gamage
 
 <!--
 **Sandaru-Lakmika/Sandaru-Lakmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
