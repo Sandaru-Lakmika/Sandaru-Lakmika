@@ -4,7 +4,7 @@ I’m a Computer Engineering undergraduate and a passionate Graphic Designer on 
 I love working on both **creative design projects** and **technical development projects**.  
 
 🌱 Currently learning Web Development, C++, Java, and Machine Learning.  
-⚡ Actively working on projects like **Car Service Booking System**, **FitEase**, and **BuildDora**.  
+⚡ Currently, I'm working on a bunch of exciting projects! 
 🎨 Over 100+ Fiverr projects completed with a 4.8★ rating, serving global clients.  
 💻 Interested in combining **engineering, design, and marketing** into innovative solutions.  
 
