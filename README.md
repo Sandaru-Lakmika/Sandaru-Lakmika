@@ -1,11 +1,10 @@
 ## Hi!👋 I'm Sandaru Gamage
 ## 🔗 About Me
-I’m a Computer Engineering undergraduate and a passionate Graphic Designer on Fiverr.  
+I’m a Computer Engineering undergraduate and a passionate UI/UX Designer.  
 I love working on both **creative design projects** and **technical development projects**.  
 
 🌱 Currently learning Web Development, C++, Java, and Machine Learning.  
-⚡ Actively working on on a bunch of exciting projects!  
-🎨 Over 100+ Fiverr projects completed with a 4.8★ rating, serving global clients.  
+⚡ Actively working on on a bunch of exciting projects!    
 💻 Interested in combining **engineering, design, and marketing** into innovative solutions.  
 
 ## 🚀 Skills & Interests
